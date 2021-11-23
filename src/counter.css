@@ -1,0 +1,25 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+.Loader {
+  margin-left: 5px;
+  display: flex;
+  flex-direction: row;
+  width: 140px;
+  justify-content: space-between;
+}
+.Loader p {
+  width: 113px;
+  height: 16px;
+  font-family: "AvenirLight";
+  font-size: 12px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}

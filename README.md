@@ -1,4 +1,7 @@
+For better experience open the link in chrome 
+
 I have set max counter value to 1080
+
 If you do not see the app, try refreshing the page
 
 Github repository for the app:
